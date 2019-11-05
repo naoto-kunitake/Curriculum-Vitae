@@ -26,10 +26,10 @@
 ## ポートフォリオ
 
 - 自身のポートフォリオサイト作成(https://naoto-ushimaru.com)
- - HTMl, CSS, jQuery, AWSを使用
- - ソースコードはこちら(https://github.com/naoto-ushimaru/portfolio-site)
- - Qiitaに作成に関する記事を書いています
-   - ポートフォリオサイトを作ってAWSで公開する(https://qiita.com/Mitsuzara/items/b413555dfdf3f805dd22)
+  - HTMl, CSS, jQuery, AWSを使用
+  - ソースコードはこちら(https://github.com/naoto-ushimaru/portfolio-site)
+  - Qiitaに作成に関する記事を書いています
+    - ポートフォリオサイトを作ってAWSで公開する(https://qiita.com/Mitsuzara/items/b413555dfdf3f805dd22)
 - じゃんけんアプリ開発
   - HTML, CSS, Vue.jsを使用
   - Qiitaに作成に関する記事を二つ書いています。ソースコードも記事内の最後に記載されています
