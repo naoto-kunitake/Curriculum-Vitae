@@ -10,6 +10,7 @@
 |Qiita|[@Mitsuzara](https://qiita.com/Mitsuzara)|
 
 ## プログラミング言語/フレームワーク/ライブラリ
+
 - HTML/CSS
 - JavaScript
   - Vue.js
@@ -21,13 +22,9 @@
 
 - AWS
   - IAM, Route53, CloudFront, S3
-
-## 強み
-
-- キャッチアップの速さ
-- Qiita等への継続的なアウトプット
-
+  
 ## ポートフォリオ
+
 - 自身のポートフォリオサイト作成(https://naoto-ushimaru.com)
  - HTMl, CSS, jQuery, AWSを使用
  - ソースコードはこちら(https://github.com/naoto-ushimaru/portfolio-site)
@@ -49,12 +46,14 @@
 職務 : Webアプリケーションエンジニア
 
 #### 2019/9 - 2019/11 : 動的Webサイト制作
+
 - HTML, CSS, jQueryを使用したフロントエンド開発
 - レスポンシブに対応した新規画面制作、既存画面の改修などのコーディングを担当
 - ソースコード管理はGitHubを使用
 - 進捗管理等はBacklogを使用
 
 #### 2019/6 - 2019/8 : 店頭セルフ受付システム開発
+
 - Vue.jsを使用したフロントエンド新規開発
 - 新規画面制作、バグ対応などのコーディングを担当
 - 10~20名のチーム開発でアジャイル開発を採用
@@ -62,6 +61,7 @@
 - 進捗管理等はBacklog, Trello, Notionを使用
 
 #### 2019/5 - 2019/5 : 画像処理システム開発
+
 - OpenCVを使った画像処理システムの開発
 - AWSの最適な構成の調査・構成図作成
 - AWSを使用した場合の、運用時のコストや負荷の調査
