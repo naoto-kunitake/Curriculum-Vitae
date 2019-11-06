@@ -32,7 +32,7 @@
     - ポートフォリオサイトを作ってAWSで公開する(https://qiita.com/Mitsuzara/items/b413555dfdf3f805dd22)
 - じゃんけんアプリ開発
   - HTML, CSS, Vue.jsを使用
-  - Qiitaに作成に関する記事を二つ書いています。ソースコードも記事内の最後に記載されています
+  - Qiitaに作成に関する記事を二つ書いています。完成品やソースコードは記事内に記載されています
     - 前編(https://qiita.com/Mitsuzara/items/039cb367c4de7683d2d0)
     - 後編(https://qiita.com/Mitsuzara/items/fccdb17ba14c0c9be20c)
 - ゲームブック風LINEbot作成
@@ -45,7 +45,7 @@
 
 職務 : Webアプリケーションエンジニア
 
-#### 2019/9 - 2019/11 : 動的Webサイト制作
+#### 2019/9 - 2019/11 : Webサイト制作
 
 - HTML, CSS, jQueryを使用したフロントエンド開発
 - レスポンシブに対応した新規画面制作、既存画面の改修などのコーディングを担当
