@@ -14,7 +14,7 @@
 - HTML/CSS
 - JavaScript
   - Vue.js
-  - JQuery
+  - Query
 - Python
   - OpenCV
 
