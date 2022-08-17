@@ -129,15 +129,7 @@
 
 ## ポートフォリオ
 
-- ポートフォリオサイト作成(https://naoto-ushimaru.com)
-- じゃんけんアプリ開発
-  - HTML, CSS, Vue.jsを使用
-  - Qiitaに作成に関する記事を二つ書いています。完成品やソースコードは記事内に記載されています
-    - 前編(https://qiita.com/Mitsuzara/items/039cb367c4de7683d2d0)
-    - 後編(https://qiita.com/Mitsuzara/items/fccdb17ba14c0c9be20c)
-- ゲームブック風LINEbot作成
-  - Python, LINE API, Herokuを使用
-  - ソースコードはこちら(https://github.com/naoto-ushimaru/GameBook)
+-　編集中
 
 ## その他アピール
 - 社内開催のJavaScript初学者向け勉強会の企画と講師を担当した経験が複数回あります。  
