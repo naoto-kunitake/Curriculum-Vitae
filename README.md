@@ -4,9 +4,9 @@
 
 | key           | value                                               |
 | ------------- | --------------------------------------------------- |
-| Name          | 牛丸直人 Naoto Ushimaru                             |
+| Name          | 国竹直人 Naoto Kunitake                              |
 | Date of birth | 1995                                                |
-| GitHub        | [naoto-ushimaru](https://github.com/naoto-ushimaru) |
+| GitHub        | [naoto-kunitake](https://github.com/naoto-kunitake) |
 | Qiita         | [@ushi_osushi](https://qiita.com/ushi_osushi)       |
 
 ## スキル
@@ -20,7 +20,7 @@
   - デザインカンプ通りの実装ができる
   - CSS設計への理解があり、プロジェクトへの導入や選定ができる
     - BEM / FLOCSSの実務経験がある
-- JavaScript(Vanilla JS / jQuery / Vue.js / Nuxt.js / React / TypeScript)
+- JavaScript(Vanilla JS / jQuery / Vue.js / Nuxt.js / React / Next.js / TypeScript)
   - 仕様に基づいた実装ができる
   - 可読性や保守性、Webパフォーマンスを意識した実装ができる
 - Gulp / Webpack / Vite
@@ -44,6 +44,7 @@
   - InVision Studio
 - その他
   - GitHub / GitLab
+  - AWS CodeCommit
   - SourceTree
   - Slack
   - Backlog
@@ -57,7 +58,11 @@
 
 ## 職務経歴
 
-### ウェブスタッフ株式会社 (2019/12 - 現在)
+### 日本ビジネスプレス　(2023/12 - 現在)
+
+---
+
+### ウェブスタッフ株式会社 (2019/12 - 2023/9)
 
 ### 社内向けCMS作成 (2023/1 - 2023/3)
 
