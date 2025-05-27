@@ -5,7 +5,7 @@
 | key           | value                                               |
 | ------------- | --------------------------------------------------- |
 | Name          | 国竹直人 Naoto Kunitake                              |
-| Date of birth | 1995                                                |
+| Birth year    | 1995                                                |
 | GitHub        | [naoto-kunitake](https://github.com/naoto-kunitake) |
 | Qiita         | [@ushi_osushi](https://qiita.com/ushi_osushi)       |
 
